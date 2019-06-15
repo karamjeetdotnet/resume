@@ -1,12 +1,15 @@
 import React, {Component} from 'react';
+import Header from './Header';
+import Footer from './Footer';
 
 class App extends Component {
 
     render() {
         return (
-            <h1>
-                Hello World!
-            </h1>
+            <resume-app>
+            <Header title="<K>aramjeet <S/>ingh"/>
+            <Footer text="9999999999"/>
+            </resume-app>
         );
     }
 }
