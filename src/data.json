@@ -1,0 +1,29 @@
+{
+    "menuItems": [
+        {
+            "id": 1,
+            "text": "Home",
+            "connector": "#body"
+        },
+        {
+            "id": 2,
+            "text": "About",
+            "connector": "#about"
+        },
+        {
+            "id": 3,
+            "text": "Experience",
+            "connector": "#experience"
+        },
+        {
+            "id": 4,
+            "text": "Work",
+            "connector": "#work"
+        },
+        {
+            "id": 5,
+            "text": "Contact",
+            "connector": "#contact"
+        }
+    ]
+}
